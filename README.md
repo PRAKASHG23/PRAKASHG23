@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @PRAKASHG23
-- 👀 I’m interested in solving problem by using coding
-- 🌱 I’m currently learning web devlopment
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in solving problems by using coding
+- 🌱 I’m currently learning  Web Development
+- 💞️ I’m looking for collaboration  for an  internship as a Web developer
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: Techdeveloper
 - ⚡ Fun fact: ...
 
 <!---
