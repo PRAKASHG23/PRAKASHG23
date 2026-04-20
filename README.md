@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @PRAKASHG23
 - 👀 I’m interested in solving problems by using coding
-- 🌱 I’m currently learning  Web Development
+- 🌱 I’m currently learning  Machine Learning
+- A Full Stack Developer
 - 💞️ I’m looking for collaboration  for an  internship as a Web developer
 - 📫 How to reach me ...
 - 😄 Pronouns: Techdeveloper
